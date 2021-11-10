@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on [renRAKU](https://www.renrakuchou.com), a ruby on rails app to replace correspodence notebooks for teachers in Japan.
-- 🌱 I’m currently learning Python :snake:
+- 🌱 I’m currently learning React
 - 🤔 I’m looking for help with finding a developer job in Japan
 - 💬 Ask me about motorcycles, Haruki Murakami novels, and my latest Ruby on Rails project!
 - 📫 How to reach me: quilljazz@gmail.com
