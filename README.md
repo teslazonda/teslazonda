@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with finding a developer job in Japan
 - 💬 Ask me about motorcycles, Haruki Murakami novels, and my latest Ruby on Rails project!
-- 📫 How to reach me: quilljazz@gmail.com
+- 📫 How to reach me: quilljazz at gmail.com
 - ⚡ Fun fact: I've climbed Mt. Fuji twice.
 
 ### My Languages :earth_americas:
