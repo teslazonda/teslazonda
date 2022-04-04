@@ -1,6 +1,6 @@
 ### Hi there! I'm Quill 👋
 
-   I'm a writer, web developer and lover of all things Japanese! 
+   I'm a technical writer, web developer and lover of all things Japanese! 
    Check out my travel blog [here](https://yamanashiamerican.wordpress.com/) :airplane:
 
 
