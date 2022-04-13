@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with data structures and algorithms
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
 - 📫 How to reach me: quilljazz at gmail.com
-- ⚡ Fun fact: I've climbed Mt. Fuji twice.
+- ⚡ Fun fact: I've climbed Mt. Fuji, twice.
 
 ### My Languages :earth_americas:
 
