@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [renRAKU](https://www.renrakuchou.com), a ruby on rails app to replace correspodence notebooks for teachers in Japan.
 - 🌱 I’m currently learning data structures and algorithms
-- 🤔 I’m looking for tech jobs in Japan.
+- 🤔 I’m looking for technical writing jobs in Japan.
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
 - 📫 How to reach me: quilljazz at gmail.com
 - ⚡ Fun fact: I've climbed Mt. Fuji, twice.
