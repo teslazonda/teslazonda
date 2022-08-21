@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning data structures and algorithms.
 - 🤔 I’m looking for a technical writing job.
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
-- 📫 How to reach me: quilljazz at gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
 - ⚡ Fun fact: I've climbed Mt. Fuji, twice.
 
 ### My Languages :earth_americas:
