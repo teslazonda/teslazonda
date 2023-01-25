@@ -4,7 +4,7 @@
    Check out my travel blog [here](https://yamanashiamerican.wordpress.com/) :airplane:
 
 
-- 🔭 I’m currently working on [renRAKU](https://www.renrakuchou.com), a ruby on rails app to replace correspodence notebooks for teachers in Japan.
+- 🔭 I’m currently working on getting my LPIC-1 certification.
 - 🌱 I’m currently learning AWS.
 - 🤔 I’m looking for a devops gig.
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
