@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on getting my LPIC-1 certification.
 - 🌱 I’m currently learning Linux Administration.
-- 🤔 I’m looking for a devops gig.
+- 🤔 I’m looking for a  gig.
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
 - ⚡ Fun fact: I've climbed Mt. Fuji, twice!
