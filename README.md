@@ -4,8 +4,8 @@
    Check out my travel blog [here](https://yamanashiamerican.wordpress.com/) :airplane:
 
 
-- 🌱 I’m learning Kubernetes.
-- 🤔 I’m looking for a remote Ruby or technical writer position in Japan.
+- 🌱 I’m learning React.
+- 🤔 I’m looking for a remote front end and technical writer positions in Japan.
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
 - ⚡ Fun fact: I've climbed Mt. Fuji, twice!
