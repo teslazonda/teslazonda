@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m learning React.
-- 🤔 I’m looking for remote front end and technical writer positions in Japan.
+- 🤔 I’m looking for remote jobs in Japan.
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
 - ⚡ Fun fact: I've climbed Mt. Fuji, twice!
