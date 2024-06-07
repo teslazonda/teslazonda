@@ -4,7 +4,7 @@
    Check out my travel blog [here](https://yamanashiamerican.wordpress.com/) :airplane:
 
 
-- 🌱 I’m learning RHEL.
+- 🌱 I’m learning RHEL administration.
 - 🤔 I’m looking for remote roles.
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
