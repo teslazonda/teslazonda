@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m learning RHEL administration.
-- 🤔 I’m looking for remote roles.
+- 🤔 I’m looking for a remote technical writer role.
 - 💬 Ask me about scuba diving, Haruki Murakami novels, and my latest side project!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
 - ⚡ Fun fact: I've climbed Mt. Fuji, twice!
