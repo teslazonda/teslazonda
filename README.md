@@ -15,6 +15,3 @@
 - :us: English Native
 - :jp: 日本語 Business Level
 
-### XMR
-42447D6c4SaUDzS6632s95RGnTp3ijFA4g82JWWtwPFzDKKUoaLSmUBX6n2N3k18Lt8VLPZyCybYT6RbVzUD6E86PHVSEDT
-
