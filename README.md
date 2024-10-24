@@ -1,7 +1,7 @@
 # Hi there! I'm Quill 👋
 
    I'm a technical writer, developer, and world traveler! 
-   Check out my travel blog [here](https://yamanashiamerican.wordpress.com/) :airplane:
+   Check out my [travel blog](https://yamanashiamerican.wordpress.com/) :airplane:
 
 
 - 🌱 I’m learning AWS.
