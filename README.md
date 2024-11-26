@@ -4,7 +4,7 @@
    Check out my [travel blog](https://yamanashiamerican.wordpress.com/) :airplane:
 
 
-- 🌱 I’m learning AWS.
+- 🌱 I’m learning [Go](https://github.com/teslazonda/learn-go-with-tests).
 - 🤔 I’m looking for a remote technical writer role.
 - 💬 Ask me about scuba diving, Haruki Murakami novels and my latest side project!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
