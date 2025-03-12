@@ -4,7 +4,7 @@
    Check out my [Portfolio](https://quill-portfolio.onrender.com/) 💼
 
 
-- 🌱 I’m learning [Go](https://github.com/teslazonda/learn-go-with-tests).
+- 🌱 I’m learning [AWS](https://aws.amazon.com).
 - 🤔 I’m looking for a remote technical writer role.
 - 💬 Ask me about scuba diving, Haruki Murakami novels and my latest side project!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
