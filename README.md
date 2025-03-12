@@ -1,7 +1,7 @@
 # Hi there! I'm Quill 👋
 
    I'm a technical writer, developer, and world traveler!
-   Check out my [Portfolio](https://quill-portfolio.onrender.com/) 💼:
+   Check out my [Portfolio](https://quill-portfolio.onrender.com/) 💼
 
 
 - 🌱 I’m learning [Go](https://github.com/teslazonda/learn-go-with-tests).
