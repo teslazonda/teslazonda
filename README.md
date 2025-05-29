@@ -57,7 +57,7 @@
 </a>
 
 <a href="https://www.credly.com/badges/7fbc6493-a790-4142-9a43-33b677532664/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/340x340/images/dac352d2-7755-4178-a4a4-b67a1a3f7aca/CompTIA_Project_2B.png" alt="CompTIA Project+" width="100" height="100"/>
+  <img src="https://images.credly.com/images/dbc9a5b0-1650-4b8d-a6a6-6dba09d09509/blob" alt="CompTIA Project+" width="100" height="100"/>
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/QuilleranCronwall-6956/741B54D0DECF4CF3?sharingId=756FA4283293000B" target="_blank" rel="noopener noreferrer">
