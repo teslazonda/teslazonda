@@ -1,19 +1,32 @@
-# Hi there! I'm Quill 👋
 
-   I'm a technical writer, developer, and world traveler!
-   Check out my [Portfolio](https://quill-portfolio.onrender.com/) 💼
+<div align="center">
 
+<!-- Animated Name Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=802&color=0EDF00&center=true&random=true&width=435&lines=Quill+Cronwall)](https://git.io/typing-svg)
+<!-- Animated Role Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Rails+Engineer;Technical+Writer;Murakami+Haruki+Enthusiast)](https://git.io/typing-svg)
 
-- 🌱 I’m learning [AWS](https://aws.amazon.com).
-- 🤔 I’m looking for a remote technical writer role.
-- 💬 Ask me about scuba diving, Haruki Murakami novels and my latest side project!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/quilleran-cronwall/)
-- ⚡ Fun fact: I've climbed Mt. Fuji, twice!
+<!-- Animated contribution snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- Neon line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## My Languages :earth_americas:
 
 - :us: English Native
 - :jp: 日本語 Business Level
+
+<!-- Neon line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## My Expertise :hammer_and_wrench:
 
@@ -46,6 +59,10 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="100" height="100"/>
   </a>
+</div>
+<!-- Neon line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ## My Certifications :white_check_mark:
