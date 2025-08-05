@@ -4,7 +4,7 @@
 <!-- Animated Name Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=802&color=0EDF00&center=true&random=true&width=435&lines=Quill+Cronwall)](https://git.io/typing-svg)
 <!-- Animated Role Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Rails+Engineer;Technical+Writer;Murakami+Haruki+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Blogger;Technical+Writer;Murakami+Haruki+Enthusiast;Rails+Engineer)](https://git.io/typing-svg)
 
 <!-- Animated contribution snake -->
 <picture>
