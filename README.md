@@ -13,28 +13,23 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Neon line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## My Languages :earth_americas:
+## My portfolio :briefcase:
+[https://quill-portfolio.onrender.com](https://quill-portfolio.onrender.com/)
+
+## My languages :earth_americas:
 
 - English
 - 日本語
 
-<!-- Neon line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## My Expertise :hammer_and_wrench:
+## My expertise :hammer_and_wrench:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <a href="https://rubyonrails.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" alt="Ruby on Rails" width="100" height="100"/>
-  </a>
 
   <a href="https://www.ruby-lang.org/en" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="100" height="100"/>
@@ -60,8 +55,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="100" height="100"/>
   </a>
 </div>
-<!-- Neon line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
