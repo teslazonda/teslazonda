@@ -62,12 +62,15 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
-<a href="https://www.credly.com/badges/595a0ca4-dc06-408b-ac43-261926009033/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="AWS CCP" width="100" height="100"/>
+<a href="https://www.credly.com/badges/59230639-24f8-4a3c-bdee-3c8132a95c13" target="_blank" rel="noopener noreferrer">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.comptia.org%2F_next%2Fimage%2F%3Furl%3Dhttps%253A%252F%252Fimages.cmp.optimizely.com%252F893bb620b71111ef888eca5646afc7d8%26w%3D256%26q%3D90&f=1&nofb=1&ipt=80a2794e00d5c0b10d0bc1f738544b683e51135fbeb3ab53ccde95b906a9adac" alt="CompTIA Network+" width="100" height="100"/>
 </a>
-
 <a href="https://www.credly.com/badges/7fbc6493-a790-4142-9a43-33b677532664/public_url" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/images/dbc9a5b0-1650-4b8d-a6a6-6dba09d09509/blob" alt="CompTIA Project+" width="100" height="100"/>
+</a>
+
+<a href="https://www.credly.com/badges/595a0ca4-dc06-408b-ac43-261926009033/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" alt="AWS CCP" width="100" height="100"/>
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/QuilleranCronwall-6956/741B54D0DECF4CF3?sharingId=756FA4283293000B" target="_blank" rel="noopener noreferrer">
